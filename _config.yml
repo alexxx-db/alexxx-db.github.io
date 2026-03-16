@@ -1,11 +1,11 @@
 # Site settings
-title: Alex Taylor-Barreto
+title: Alex's Website
 subtitle: Data & AI Practice Lead · Databricks Architect
 email: ""
 description: "Generative AI & Data Expert. Geospatial DSML, LLMs, RAG, Lakehouse architecture. Practice Lead at Entrada AI. Former Databricks Solutions Architect."
 baseurl: ""
 url: "https://alexxx-db.github.io"
-twitter_username: ""
+twitter_username: "alexxx_db"
 github_username: alexxx-db
 linkedin_username: alexb-653b7736a
 
