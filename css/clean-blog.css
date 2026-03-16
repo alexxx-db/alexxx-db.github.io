@@ -128,14 +128,37 @@ hr.small {
   }
 }
 .intro-header {
+  position: relative;
   background-color: #808080;
-  background: no-repeat center center;
+  margin-bottom: 50px;
+  overflow: hidden;
+}
+.intro-header__bg {
+  position: absolute;
+  inset: 0;
+  background-repeat: no-repeat;
+  background-position: center center;
   background-attachment: scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  margin-bottom: 50px;
+  z-index: 0;
+}
+.intro-header .container {
+  position: relative;
+  z-index: 1;
+}
+/* Increase contrast on home banner only */
+.intro-header--banner-home .intro-header__bg {
+  filter: contrast(1.15) brightness(0.97);
+}
+.intro-header--banner-home .intro-header__bg::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.15);
+  pointer-events: none;
 }
 .intro-header .site-heading,
 .intro-header .post-heading,

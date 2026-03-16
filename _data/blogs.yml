@@ -1,0 +1,69 @@
+# Blog articles from the Writing page (Substack, Databricks Blog, Entrada)
+# Order: newest first for RSS feed. date is ISO for feed pubDate.
+
+- title: "Containerizing the Lakehouse: The Role of Kubernetes in Modern Data Platforms"
+  url: "https://entrada.ai/kubernetes-databricks-lakehouse-migration/"
+  date: "2026-03-01"
+  source: "Entrada Blog"
+
+- title: "Accelerating Life-Saving Medical Treatments with Databricks Mosaic AI and Real-World Evidence"
+  url: "https://tonteria.substack.com/p/accelerating-life-saving-medical"
+  date: "2026-01-01"
+  source: "Substack"
+
+- title: "Beyond 2025: The Strategic Shift from \"Data Pipelines\" to \"Data Products\""
+  url: "https://entrada.ai/building-data-products-with-databricks/"
+  date: "2026-02-01"
+  source: "Entrada Blog"
+
+- title: "Migrating from Azure Data Factory (ADF) to Databricks Lakeflow: Lessons from Entrada's Customer Successes"
+  url: "https://entrada.ai/adf-to-databricks-lakeflow-migration-guide/"
+  date: "2026-01-01"
+  source: "Entrada Blog"
+
+- title: "5 Advanced Techniques to Fine-Tune Large Language Models (LLMs) Efficiently"
+  url: "https://tonteria.substack.com/p/5-advanced-techniques-to-fine-tune"
+  date: "2025-05-01"
+  source: "Substack"
+
+- title: "Reimagining Enterprise Data Exploration with Databricks Genie MCP"
+  url: "https://tonteria.substack.com/p/reimagining-enterprise-data-exploration"
+  date: "2025-05-01"
+  source: "Substack"
+
+- title: "Building Enterprise-Grade Generative AI: Model Selection and Customization"
+  url: "https://tonteria.substack.com/p/building-enterprise-grade-generative"
+  date: "2025-05-01"
+  source: "Substack"
+
+- title: "Agent-to-Agent (A2A) Protocol: A Comprehensive Analysis"
+  url: "https://tonteria.substack.com/p/agent-to-agent-a2a-protocol-a-comprehensive"
+  date: "2025-04-01"
+  source: "Substack"
+
+- title: "Model Context Protocol (MCP): A Comprehensive Analysis"
+  url: "https://tonteria.substack.com/p/model-context-protocol-mcp-a-comprehensive"
+  date: "2025-04-01"
+  source: "Substack"
+
+- title: "RAG Development Lifecycle Analysis: Essential Tools for 2025"
+  url: "https://tonteria.substack.com/p/rag-development-lifecycle-analysis"
+  date: "2025-04-01"
+  source: "Substack"
+
+- title: "Practical Guide to GenAI Orchestration"
+  url: "https://tonteria.substack.com/p/practical-guide-to-genai-orchestration"
+  date: "2025-04-01"
+  source: "Substack"
+
+- title: "Building a Geospatial Lakehouse, Part 2"
+  url: "https://www.databricks.com/blog/2022/03/28/building-a-geospatial-lakehouse-part-2.html"
+  date: "2022-03-28"
+  source: "Databricks Blog"
+  description: "Implementation guidelines, partitioning, libraries, and example with mobility + POI data."
+
+- title: "Building a Geospatial Lakehouse, Part 1"
+  url: "https://www.databricks.com/blog/2021/12/17/building-a-geospatial-lakehouse-part-1.html"
+  date: "2021-12-17"
+  source: "Databricks Blog"
+  description: "Architecture, design principles, and benefits for spatio-temporal analytics at scale."
