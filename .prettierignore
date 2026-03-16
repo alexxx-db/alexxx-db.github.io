@@ -1,0 +1,11 @@
+_site/
+node_modules/
+**/*.min.css
+**/*.min.js
+css/bootstrap.css
+css/bootstrap.min.css
+js/jquery.js
+js/jquery.min.js
+js/MathBox-bundle.js
+js/bootstrap.min.js
+js/clean-blog.min.js
